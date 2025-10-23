@@ -1,4 +1,4 @@
-# 🧭 Swift Utility App
+# 🧭 Swift Utility App (Geometria)
 
 Un progetto personale scritto in **Swift**, che raccoglie diverse funzionalità legate a **crittografia, geometria, gestione di manga, conversioni** e **magazzino**.  
 L’obiettivo è sperimentare e approfondire diversi concetti di programmazione in Swift, dall’uso della logica matematica all’organizzazione dei dati.
